@@ -1,0 +1,32 @@
+## Title: EsoUA V1.3
+## Author: ESO.pp.UA
+## Description: EsoUA Lite - Unofficial Ukrainian Localization V1.3 |              | Original Addon: RuESO (Author: TERAB1T)
+## Version: 1.3
+## APIVersion: 101046
+## SavedVariables: EsOUAVariables
+## DependsOn: LibAddonMenu-2.0>=38
+## OptionalDependsOn: TamrielTradeCentre ItemBrowser WishList IIfA AwesomeGuildStore EasyTravel Unboxer
+##
+## This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.
+## The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the United States and/or other countries. 
+## All rights reserved
+##
+## You can read the full terms at https://account.elderscrollsonline.com/add-on-terms
+
+data/npc.lua
+data/locations.lua
+data/craft_abilities.lua
+data/links.lua
+
+modules/craft.lua
+modules/abilities.lua
+modules/champion.lua
+modules/items.lua
+modules/locations.lua
+modules/collections.lua
+
+EsoUA.lua
+EsoUA.xml
+settings.lua
+
+bindings.xml

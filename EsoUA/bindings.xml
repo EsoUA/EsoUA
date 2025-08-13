@@ -1,0 +1,12 @@
+<Bindings>
+  <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
+    <Category name="EsoUA">
+      <Action name="ESOUA_EN">
+        <Down>EsoUA_Change("en")</Down>
+      </Action>
+      <Action name="ESOUA_RU">
+        <Down>EsoUA_Change("ua")</Down>
+      </Action>
+    </Category>
+  </Layer>
+</Bindings>
